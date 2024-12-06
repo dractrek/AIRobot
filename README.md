@@ -3,7 +3,7 @@
 
 # AIRobot  
 
-## **Català**
+🤖 ## **Català**
 <span style="color: blue;">
 ##Català 
 Benvingut al futur de la tecnologia!
@@ -24,7 +24,7 @@ Per a preguntes o suggeriments: [dractrek@gmail.com](mailto:dractrek@gmail.com)
 
 ---
 
-## **English**
+🤖 ## **English**
 <span style="color: green;">
 ## English 
 Welcome to yhe future of technology!
