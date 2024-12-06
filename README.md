@@ -1,11 +1,12 @@
 # AIRobot
-![Robots, AI, Humans, ...](imatges/EvePic01.webp)
-
 <img src="imatges/EvePic01.webp" width="25%" alt="Robots, AI, Humans, ...">
 
 # AIRobot  
 
 ## Català
+<span style="color: blue;">Català 
+Benvingut al futur de la tecnologia!</span>
+
 AIRobot és un lloc web informatiu sobre robòtica, intel·ligència artificial i supercomputació, amb continguts en català i anglès.
 
 ### Característiques
@@ -22,6 +23,9 @@ Per a preguntes o suggeriments: [dractrek@gmail.com](mailto:dractrek@gmail.com)
 ---
 
 ## English
+<span style="color: green;">English 
+Welcome to yhe future of technology!</span>
+
 AIRobot is an informational website about robotics, artificial intelligence, and supercomputing, with content in both Catalan and English.
 
 ### Features
