@@ -1,5 +1,5 @@
 # AIRobot
-![Robots, AI, Humans, ...](/imatges/EvePic01.webp)
+![Robots, AI, Humans, ...](imatges/EvePic01.webp)
 
 
 # AIRobot 
