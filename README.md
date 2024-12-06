@@ -1,6 +1,7 @@
 # AIRobot
 ![Robots, AI, Humans, ...](imatges/EvePic01.webp)
 
+<img src="imatges/EvePic01.webp" width="25%" alt="Robots, AI, Humans, ...">
 
 # AIRobot  
 
