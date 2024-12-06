@@ -1,6 +1,9 @@
 # AIRobot
 ![Robots, AI, Humans, ...](imatges/EvePic01.webp)
 
+![Robots, AI, Humans, ...](https://github.com/dractrek/AIRobot/blob/main/imatges/EvePic01.webp)
+
+
 
 # AIRobot 
 
