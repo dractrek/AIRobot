@@ -2,7 +2,7 @@
 ![Robots, AI, Humans, ...](/imatges/EvePic01.webp)
 
 
-# AIRobot
+# AIRobot 
 
 ## Català
 AIRobot és un lloc web informatiu sobre robòtica, intel·ligència artificial i supercomputació, amb continguts en català i anglès.
